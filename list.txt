@@ -5,7 +5,7 @@
 35     # index of T or H.
 96     # Initial run number
 2     # Run number interval
--1    # Number of points used for background estimation
+-1    # Number of points used for background estimation (negative value for integration without BG subtraction.) 
 0.488 0.512    # x range for integration
 PONTA_exp0015_scan0096.dat
 PONTA_exp0015_scan0098.dat
