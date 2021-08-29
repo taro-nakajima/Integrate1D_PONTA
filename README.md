@@ -5,9 +5,9 @@ Integrating peak intensity measured at PONTA
 python Integrate1D_PONTA.py _(list file name)_ _(output file name)_
 
 ## parameters in the list file
-- skip line
+- skip line :
 ファイルの冒頭でスキップする行数。PONTAのデータファイルの場合は「33」にする。
-- index of x  (column number 0,1,2,3...)
+- index of x  (column number 0,1,2,3...) :
 積分変数の列番号。ゼロから始まることに注意。PONTAのデータの場合は通常「1」にする。
 
 6     # index of F(x)
